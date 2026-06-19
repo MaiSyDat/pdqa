@@ -66,7 +66,7 @@ export const ARGUMENT_CONVERSATION_SEQUENCE: Message[] = [
 
   { id: 'arg-3', sender: 'dat', text: 'Anh chỉ sợ mất em thôi. Anh không thích cảm giác ai cũng có thể nhìn em như vậy.' },
 
-  { id: 'arg-4', sender: 'quynh_anh', text: 'Nhưng anh có biết càng ngày em càng thấy ngột ngạt không? Đi chơi với bạn anh khó chịu, đăng ảnh anh khó chịu, trả lời tin nhắn chậm anh cũng suy diễn.' },
+  { id: 'arg-4', sender: 'quynh_anh', text: 'Nhưng anh có biết càng ngày em càng thấy ngột ngạt không?' },
 
   { id: 'arg-5', sender: 'dat', text: 'Vậy cuối cùng tất cả đều là lỗi của anh à?' },
 
@@ -86,13 +86,15 @@ export const ARGUMENT_CONVERSATION_SEQUENCE: Message[] = [
 
   { id: 'arg-14', sender: 'quynh_anh', text: 'bây giờ em k có tâm trạng yêu đương gì hết, mình nói chuyện tí đi' },
 
-  { id: 'arg-15', sender: 'quynh_anh', text: 'Anh đừng đợi em nữa nhé.' },
+  { id: 'arg-15', sender: 'quynh_anh', text: 'Mình dừng lại đi anh.' },
 
-  { id: 'arg-16', sender: 'quynh_anh', text: 'Tụi mình sẽ không quay lại đâu anh.' },
+  { id: 'arg-16', sender: 'quynh_anh', text: 'Anh đừng đợi em nữa nhé.' },
 
-  { id: 'arg-17', sender: 'quynh_anh', text: 'Cảm ơn anh vì đã từng yêu em nhiều như thế.' },
+  { id: 'arg-17', sender: 'quynh_anh', text: 'Tụi mình sẽ không quay lại đâu anh.' },
 
-  { id: 'arg-18', sender: 'dat', text: '...' },
+  { id: 'arg-18', sender: 'quynh_anh', text: 'Cảm ơn anh vì đã từng yêu em nhiều như thế.' },
+
+  { id: 'arg-19', sender: 'dat', text: '...' },
 
   { id: 'arg-attachment', sender: 'attachment', text: '✉️ Bức thư tay viết gửi tặng riêng Quỳnh Anh tình yêu của anh' }
 ];

@@ -452,7 +452,7 @@ export default function MessengerIntro({ theme, onComplete }: MessengerIntroProp
             : 'border-neutral-800 bg-neutral-900/40 hover:bg-neutral-900 text-neutral-400 hover:text-neutral-200'
             }`}
         >
-          <span>Mở Hộp Thư Bản Thân</span>
+          <span>Mở Thư</span>
           <FastForward className="w-2.5 h-2.5" />
         </button>
       </div>

@@ -1,0 +1,6 @@
+{
+  "name": "Bức Thư Gửi Quỳnh Anh",
+  "description": "Một bức thư cá nhân tinh tế với phong cách tối giản, tích hợp hiệu ứng gõ chữ, đếm ngược thời gian, nhạc nền và chế độ sáng/tối.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
